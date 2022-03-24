@@ -1,0 +1,25 @@
+<style>
+  body {
+    background-color: seashell;
+  }
+
+  hr {
+    background-color: white;
+    border-style: dotted none none;
+    border-color: lightgrey;
+    border-width: 5px;
+    width: 4%;
+  }
+
+  title {
+    color: #66bfbf;
+  }
+
+  h1 {
+    color: #66bfbf;
+  }
+
+  h3 {
+    color: #66bfbf;
+  }
+</style>
